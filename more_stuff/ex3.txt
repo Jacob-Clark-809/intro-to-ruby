@@ -1,0 +1,2 @@
+Exception handling is used to prevent the program from stopping when it
+encounters an error. Instead an alternative path is provided. 
