@@ -1,0 +1,2 @@
+Arrays are ordered lists with values labelled by integer indices whereas a
+Hash uses key value pairs to store and access data. 
