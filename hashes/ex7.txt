@@ -1,0 +1,3 @@
+NoMethodError: undefined method `keys' for Array
+
+This occurs because there is no method keys for Array objects. 
